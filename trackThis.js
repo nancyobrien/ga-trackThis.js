@@ -1,3 +1,4 @@
+/* trackThis v1.0 */
 (function(window) {
 	'use strict';
 
